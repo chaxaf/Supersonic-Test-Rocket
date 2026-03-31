@@ -139,7 +139,3 @@ Hermes-II-GitHub/
 ## Opening the hardware files
 
 The hardware design files are provided in KiCad project format. Open the corresponding `.kicad_pro` file in each hardware subfolder.
-
-## Notes on cleanup
-
-The original archive contained backup folders, duplicate copies, cache files, autosaves, nested zip archives, and other user-specific artifacts. Those were removed here so the repository is cleaner and more appropriate for direct GitHub upload, while keeping the design files, local libraries, 3D assets, and fabrication outputs.
