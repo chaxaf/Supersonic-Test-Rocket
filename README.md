@@ -27,12 +27,10 @@ The design integrates:
 
 ![Rocket overview](images/rocket_overview.png)
 
-**Where to find it in the presentation:** slide **“STRUCTURE”**  
 **Source in repository:** `docs/Hermes_Presentation.pptx`
 
 ![Avionics bay](images/avionics_bay.png)
 
-**Where to find it in the presentation:** slide **“AVIONICS BAY”**
 
 ## Main PCB
 
@@ -40,19 +38,15 @@ The main board had to fit inside a very constrained avionics bay while interfaci
 
 ![System block diagram](images/system_block_diagram.png)
 
-**Where to find it in the presentation:** slide **“PCB PRINCIPAL : BLOC DIAGRAM”**
 
 ![Main PCB top](images/main_pcb_top.png)
 
-**Where to find it in the presentation:** slide **“PCB PRINCIPAL : MICROCONTROLLEUR”**
 
 ![Main PCB routing](images/main_pcb_signal_routing.png)
 
-**Where to find it in the presentation:** slide **“Routage des couches de signaux”**
 
 ![Main PCB power planes](images/main_pcb_power_planes.png)
 
-**Where to find it in the presentation:** slide **“Plans de masse et d'alimentation”**
 
 ## GPS layout constraints
 
@@ -60,11 +54,9 @@ One of the most layout-sensitive parts of the board was the GPS section, especia
 
 ![GPS layout](images/gps_layout_guidelines.png)
 
-**Where to find it in the presentation:** slide **“GPS ROUTING REQUIREMENTS”**
 
 ![GPS microstrip stackup](images/gps_microstrip_stackup.png)
 
-**Where to find it in the presentation:** slide **“GPS ROUTING REQUIREMENTS”**
 
 ## Auxiliary PCBs
 
@@ -73,21 +65,18 @@ Measures total pressure and wall temperature.
 
 ![Nosecone PCB](images/nosecone_board.png)
 
-**Where to find it:** clearer in `docs/report.pdf`, section **Method → Structure**, figure **“3D render of the nosecone board”**.
 
 ### Static port PCB
 Measures static pressure and wall temperature.
 
 ![Static port PCB](images/static_port_board.png)
 
-**Where to find it:** clearer in `docs/report.pdf`, section **Method → Structure**, figure **“3D render of the static port board”**.
 
 ### Load cell PCB
 Conditions the load cell signal used for thrust measurement.
 
 ![Load cell PCB](images/load_cell_board.png)
 
-**Where to find it:** clearer in `docs/report.pdf`, section **Method → Structure**, figure **“3D render of the load cell board”**.
 
 ## Main technical points
 
